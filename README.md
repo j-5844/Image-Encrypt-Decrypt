@@ -1,4 +1,4 @@
-**Image Encryption and Decryption**
+#**Image Encryption and Decryption**
 
 This is a program that encrypts images by converting the image into a byte array and applying XOR operation on each value of the array and the provided key value. The key acts as a password to encrypt and decrypt the image. Decryption of the image can occur only if the same key value is entered, in which the byte array value gets changed back into its original value and the original image can be obtained. 
 
